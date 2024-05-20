@@ -65,3 +65,11 @@ arr[low] = arr[j];
 arr[j] = pivot;
 return j;
 }
+
+/*output:-
+Enter the size of an array :6
+
+Enter the elements in an array : 22 13 45 26 34 87
+
+The quick sort result is :13 22 26 34 45 87
+*/
