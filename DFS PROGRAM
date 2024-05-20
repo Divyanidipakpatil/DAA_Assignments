@@ -114,3 +114,23 @@ int isempty_stack() {
     else
         return 0;
 }
+/*
+Enter the number of nodes: 9
+Enter edge (-1 -1 to quit): 0 1
+Enter edge (-1 -1 to quit): 0 4
+Enter edge (-1 -1 to quit): 0 3
+Enter edge (-1 -1 to quit): 1 2
+Enter edge (-1 -1 to quit): 1 4
+Enter edge (-1 -1 to quit): 2 5
+Enter edge (-1 -1 to quit): 3 4
+Enter edge (-1 -1 to quit): 3 6
+Enter edge (-1 -1 to quit): 4 5
+Enter edge (-1 -1 to quit): 4 7
+Enter edge (-1 -1 to quit): 6 4
+Enter edge (-1 -1 to quit): 6 7
+Enter edge (-1 -1 to quit): 7 5
+Enter edge (-1 -1 to quit): 7 8
+Enter edge (-1 -1 to quit): -1 -1 
+Enter starting vertex for depth-first search: 0
+0 1 2 5 4 7 8 3 6 
+*/
