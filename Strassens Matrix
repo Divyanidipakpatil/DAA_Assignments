@@ -61,8 +61,31 @@ int main()
    {
      cout<<"\n";
      for(j=0;j<2;j++)
-       cout<<c[i][j];
+       cout<<c[i][j]<<"\t";
     }
    return 0;
    
 }
+
+/*OUTPUT:-
+Enter elements of first matrix:
+2 5
+7 9
+
+Enter elements of second matrix:
+3 5
+6 2
+
+print the first matrix:
+
+25
+79
+print the second matrix:
+
+35
+62
+after multiplication using strassen's algorithm
+
+36	20	
+75	53	
+*/
