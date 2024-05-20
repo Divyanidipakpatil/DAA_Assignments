@@ -134,3 +134,67 @@ int main()
       }    
  } 
 
+/*
+entr no of vertices:
+8
+enter edge1(enter -1-1 to exit)0 2
+enter the weight of this edge:
+2
+enter edge2(enter -1-1 to exit)0 3
+enter the weight of this edge:
+7
+enter edge3(enter -1-1 to exit)2 0
+enter the weight of this edge:
+5
+enter edge4(enter -1-1 to exit)2 3
+enter the weight of this edge:
+4
+enter edge5(enter -1-1 to exit)6 2
+enter the weight of this edge:
+6
+enter edge6(enter -1-1 to exit)2 6
+enter the weight of this edge:
+3
+enter edge7(enter -1-1 to exit)6 3
+enter the weight of this edge:
+3
+enter edge8(enter -1-1 to exit)3 4
+enter the weight of this edge:
+9
+enter edge9(enter -1-1 to exit)4 0
+enter the weight of this edge:
+4
+enter edge10(enter -1-1 to exit)0 1
+enter the weight of this edge:
+8
+enter edge11(enter -1-1 to exit)1 5
+enter the weight of this edge:
+16
+enter edge12(enter -1-1 to exit)4 5
+enter the weight of this edge:
+5
+enter edge13(enter -1-1 to exit)7 5
+enter the weight of this edge:
+2
+enter edge14(enter -1-1 to exit)4 7
+enter the weight of this edge:
+8
+enter edge15(enter -1-1 to exit)7 6
+enter the weight of this edge:
+5
+enter edge16(enter -1-1 to exit)6 4
+enter the weight of this edge:
+4
+enter edge17(enter -1-1 to exit)-1 -1
+Enter source vertex:
+0
+enter destination vertex(-1 to quit):
+7
+shortest path is:
+0
+3
+4
+7
+shortest distance is:24
+enter destination vertex(-1 to quit):
+*/
